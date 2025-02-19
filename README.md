@@ -26,9 +26,11 @@ The project uses a custom railway dataset with precise lateral distance annotati
 Dataset link: https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EuPBA71o3UhOn8bQTCEtVO0BjA0oMSGB7jcV5ZnxEO-ElA?e=bnlfiT
 
 ## Pre-trained Models
-Pre-trained weights for the models can be downloaded from:
-Model Weights : https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsjFizFPFl1Lt_sUo15dYAcBMoPz-behe3lkPJITqr7U4w?e=qSlGVt
-Download and place the weights in the weights/ directory.
+Pre-trained weights for the models can be downloaded from:  Download and place the weights in the weights/ directory.
+Model Weights : 
+
+https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsjFizFPFl1Lt_sUo15dYAcBMoPz-behe3lkPJITqr7U4w?e=qSlGVt
+
 
 ## Download Depthanything V2
 
