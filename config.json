@@ -1,0 +1,58 @@
+{
+  "paths": {
+    "EdgeSAM_CHECKPOINT": "D:/GitHub/Railway_Safety_system/weights/edge_sam_3x.pth",
+    "RAIL_MODEL": "D:/GitHub/Railway_Safety_system/weights/chromatic-laughter-5",
+    "IMAGES_DIRECTORY": "D:/video/validation",
+    "OUTPUT_DIRECTORY": "D:/GitHub/Railway_Safety_system/validation_test",
+    "DEPTH_CHECKPOINT": "D:/GitHub/Railway_Safety_system/weights/depth_anything_v2_vits.pth",
+    "CALIBRATION_FILE": "D:/GitHub/Railway_Safety_system/calibration_params.json"
+  },
+  "models": {
+    "yolo": {
+      "model_id": "yolo_world/v2-l"
+    },
+    "depth": {
+      "vits": {
+        "encoder": "vits",
+        "features": 64,
+        "out_channels": [48, 96, 192, 384]
+      }
+    },
+    "rail_detector": {
+      "crop_coords": "auto",
+      "runtime": "pytorch"
+    }
+  },
+  "detection_settings": {
+    "classes": ["person", "car", "rail-track"],
+    "class_specific_settings": {
+      "person": {
+        "confidence_threshold": 0.4,
+        "iou_threshold": 0.4
+      },
+      "car": {
+        "confidence_threshold": 0.4,
+        "iou_threshold": 0.4
+      }
+    }
+  },
+  "visualization": {
+    "depth_percentile": 95,
+    "depth_colormap": "Spectral_r",
+    "colors": {
+      "projected_point": [255, 0, 255],
+      "matching_point": [0, 255, 0],
+      "distance_line": [255, 255, 255]
+    }
+  },
+  "image_settings": {
+    "extensions": ["jpg", "jpeg", "png"]
+  },
+  "rail_settings": {
+    "gauge_width": 1.435
+  },
+  "hardware": {
+    "device": "cuda",
+    "num_workers": 3
+  }
+}

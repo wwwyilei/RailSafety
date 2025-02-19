@@ -1,0 +1,137 @@
+{
+    "reference_lines": [
+        {
+            "line1": [
+                [
+                    143,
+                    1077
+                ],
+                [
+                    934,
+                    486
+                ]
+            ],
+            "line2": [
+                [
+                    441,
+                    1077
+                ],
+                [
+                    943,
+                    488
+                ]
+            ],
+            "distance": 0.9,
+            "description": "bricktoedge"
+        },
+        {
+            "line1": [
+                [
+                    441,
+                    1077
+                ],
+                [
+                    943,
+                    488
+                ]
+            ],
+            "line2": [
+                [
+                    787,
+                    1078
+                ],
+                [
+                    951,
+                    495
+                ]
+            ],
+            "distance": 0.8,
+            "description": "edgetorail"
+        },
+        {
+            "line1": [
+                [
+                    1,
+                    1044
+                ],
+                [
+                    929,
+                    484
+                ]
+            ],
+            "line2": [
+                [
+                    143,
+                    1077
+                ],
+                [
+                    935,
+                    486
+                ]
+            ],
+            "distance": 0.4,
+            "description": "poletobrick"
+        },
+        {
+            "line1": [
+                [
+                    0,
+                    811
+                ],
+                [
+                    866,
+                    503
+                ]
+            ],
+            "line2": [
+                [
+                    2,
+                    1045
+                ],
+                [
+                    929,
+                    484
+                ]
+            ],
+            "distance": 2.0,
+            "description": "blinetopole"
+        }
+    ],
+    "rail_lines": {
+        "center": [
+            [
+                967,
+                1079
+            ],
+            [
+                956,
+                497
+            ]
+        ],
+        "left": [
+            [
+                787,
+                1078
+            ],
+            [
+                950,
+                496
+            ]
+        ],
+        "right": [
+            [
+                1127,
+                1079
+            ],
+            [
+                965,
+                498
+            ]
+        ]
+    },
+    "platform_edge": null,
+    "point_distances": [],
+    "known_distances": {
+        "rail_gauge": 1.435
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "calibration_function": {
+        "type": "exponential",
+        "coefficients": [
+            0.002736450368912612,
+            10.402021478024642,
+            -0.16075735234385868
+        ]
+    },
+    "depth_range": {
+        "min": 0.0,
+        "max": 90.0
+    }
+}
