@@ -29,3 +29,7 @@ Dataset link: https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_
 Pre-trained weights for the models can be downloaded from:
 Model Weights : https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsjFizFPFl1Lt_sUo15dYAcBMoPz-behe3lkPJITqr7U4w?e=qSlGVt
 Download and place the weights in the weights/ directory.
+
+## Download Depthanything V2
+
+https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsNkRocMXWdHpkbbnrsefUYBg1dguRNvFmFv9gMQfRcxfg?e=uLPqFX
