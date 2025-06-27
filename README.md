@@ -31,11 +31,13 @@ https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EuPBA71
 Pre-trained weights for the models can be downloaded from:  
 Model Weights : 
 
-https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsjFizFPFl1Lt_sUo15dYAcBMoPz-behe3lkPJITqr7U4w?e=qSlGVt
+https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsjFizFPFl1Lt_sUo15dYAcBMoPz-behe3lkPJITqr7U4w?e=K05cW7
+s
 
 
 Download and place the weights in the weights/ directory.
 
 ## Download Depthanything V2
 
-https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsNkRocMXWdHpkbbnrsefUYBg1dguRNvFmFv9gMQfRcxfg?e=uLPqFX
+https://tuenl-my.sharepoint.com/:f:/g/personal/w_y_l_wang_student_tue_nl/EsNkRocMXWdHpkbbnrsefUYBRVYAYg23csUFC0OKwBI40Q?e=aY2zCm
+
